@@ -1,7 +1,4 @@
----
-
----
-
+```mermaid
 journey
     title User Journey for "Church of Christ Son of the Living God" App
 
@@ -45,3 +42,4 @@ journey
       Switch Language On-the-Fly: 3: User
       Save Notes/Highlights Across Devices: 5: System
       Seamless Navigation with Hyperlinks (Books → Chapters → Verses): 5: System
+```
